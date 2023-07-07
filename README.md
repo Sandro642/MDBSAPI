@@ -13,3 +13,6 @@ Caractéristiques principales :
 - 🚦 **Gestion des erreurs intégrée** : MDBSAPI gère de manière transparente les erreurs liées à la connexion à MongoDB et aux opérations de base de données, offrant ainsi une expérience de développement plus fluide et fiable.
 
 Utilisez MDBSAPI pour simplifier votre utilisation de MongoDB en Java et libérer tout le potentiel de cette base de données NoSQL dans vos projets. 💪
+
+##
+### Si il y a un problème avec cette api faites le moi par en faisant une issue sur github. Merci beaucoup
